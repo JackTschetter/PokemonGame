@@ -1,4 +1,8 @@
-#Todo: Catch and run rates should update EACH TIME throw rock is called, when it is called.
+'''
+A simple pokemon video game (Safari Zone Simulator) with GUI written in python using the tkinter library.
+Created by Jack Tschetter, all rights reserved.
+For instructions on how to play and run the game refer to the files readme.pdf, and dependencies.txt.
+'''
 import tkinter as tk
 import random
 
@@ -171,17 +175,16 @@ class SafariSimulator(tk.Frame):
     #     self.catchProbLabel.place_forget()
     #     self.escapeProbLabel.place_forget()
 
-
-#Throw ball works for all parts of the extra credit as well
 #The GUI has two ways to differentiate captured, and escaped pokemon
 #If a pokemon escapes the message label is updated for 1750 miliseconds
 #If a pokemon is captured the capture message label is updated for 1750 miliseconds
-#only if a pokemon is captured the safari ball is displayed for 1750 miliseconds
+#Only if a pokemon is captured the safari ball is displayed for 1750 miliseconds
 #The safari ball display is in addition to the message change
 
 #Throw rock method sets self.Eating to False
 #Because self.Eating, and self.Angered can not both be true
 #Throw rocks updates the catchProb, and escapeProb labels accordingly
+
     def throwRocks(self):
 
         a_random_number = random.randint(0,1)
