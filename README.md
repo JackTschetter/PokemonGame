@@ -8,7 +8,7 @@ To play the video game you will need the files PokemonGame.py, pokedex.csv, and 
 This should run the video game. If you are using an older version of python you might need to use the below command instead.
 <br><br>python PokemonGame.py
 
-Although it is highly reccomended you update to the latest version of Python for the best results. If this still doesn’t work refer to the file dependecies.txt. After running the above command the program should compile and run to display the following result. The exact look might vary slightly based on platform architecture, python version, etc…
+Although it is highly reccomended you update to the latest version of Python for the best results. If this still doesn’t work refer to the file dependecies.txt. After running the above command the program should compile and run to display the following result. The exact look might vary slightly based on platform architecture, python version, etc…<br>
 
 <img src="images/SafariZoneSimulator.png" alt="Safari Zone Simulator" width="400">
 
