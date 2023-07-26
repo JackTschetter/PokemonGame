@@ -24,5 +24,5 @@ This is a small subset of a more advanced Pokemon Game in which users have a set
 At the start of each game the user starts with 30 safari balls. The program keeps track of the number of balls used, and the game is over when the counter reaches 0.
 The program also keeps track of all captured Pokemon, and reports them to the user at the end. Currently there are 151 "species" of Pokemon each with different images, names, and catch probabilities.
 The probability that a random Pokemon will be caught can be determined using this formula<br><br>
-min((catchRate + 1), 151) / 449.5. Where catch rate is the Pokemons catchRate from the .csv file. A schematic of the GUI for the game is below.
+min((catchRate + 1), 151) / 449.5. Where catch rate is the Pokemons catchRate from the .csv file. A schematic of the GUI for the game is below.<br><br>
 <img src="images/schematic.png" alt="Schematic" width="400">
