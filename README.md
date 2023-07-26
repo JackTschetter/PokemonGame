@@ -1,6 +1,8 @@
-#Safari Zone Simulator
+# Safari Zone Simulator
+
 A simple Pokemon video game written in Python Programming Language.
-##How to Run the Code
+
+## How to Run the Code
 To play the video game you will need the files PokemonGame.py, pokedex.csv, and the directory sprites. Feel free to obtain them through pull requests or more primitive means such as downloading/copy pasting. Once you obtain the necessary source materials open a terminal and navigate to the directory where your files are stored (keep all the files and the sprites folder in the same directory), and run the following command<br>
 <br>python3 PokemonGame.py <br><br>
 This should run the video game. If you are using an older version of python you might need to use the below command instead.
@@ -8,7 +10,7 @@ This should run the video game. If you are using an older version of python you 
 
 Although it is highly reccomended you update to the latest version of Python for the best results. If this still doesn’t work refer to the file dependecies.txt. After running the above command the program should compile and run to display the following result. The exact look might vary slightly based on platform architecture, python version, etc…
 <img src="images/SafariZoneSimulator.png" alt="Safari Zone Simulator" width="400">
-##Instructions for the Gameplay
+## Instructions for the Gameplay
 This is a small subset of a more advanced Pokemon Game in which users have a set number of Safari balls to catch as many Pokemon as possible. There are no battles within the minigame, so the user has the following options for each turn.
 
 1. Throw a Safari ball.
