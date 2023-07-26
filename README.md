@@ -9,8 +9,11 @@ This should run the video game. If you are using an older version of python you 
 <br><br>python PokemonGame.py
 
 Although it is highly reccomended you update to the latest version of Python for the best results. If this still doesn’t work refer to the file dependecies.txt. After running the above command the program should compile and run to display the following result. The exact look might vary slightly based on platform architecture, python version, etc…
+
 <img src="images/SafariZoneSimulator.png" alt="Safari Zone Simulator" width="400">
+
 ## Instructions for the Gameplay
+
 This is a small subset of a more advanced Pokemon Game in which users have a set number of Safari balls to catch as many Pokemon as possible. There are no battles within the minigame, so the user has the following options for each turn.
 
 1. Throw a Safari ball.
